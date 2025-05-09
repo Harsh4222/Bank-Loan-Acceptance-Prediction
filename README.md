@@ -8,7 +8,7 @@ This project predicts whether a bank customer will accept a personal loan offer 
 - Logistic Regression
 - Naïve Bayes
 - Random Forest
-- Voting Ensemble (Majority Voting)
+- Voting Ensemble (Majority Voting & Average Probability)
 
 ---
 
